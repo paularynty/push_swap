@@ -1,0 +1,8 @@
+*.o
+*.swp
+*.vscode
+objs/
+checker_linux
+*.out
+libft.a
+push_swap
